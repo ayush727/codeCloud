@@ -8,6 +8,6 @@
 # 3. Install the necessary packages using :
 #     npm install --save
 # 4. Import the database in the system using :
-#     mongorestore -db codeCloud <local_Location>
+#     mongorestore 
 # 5. Run the application using the command :
 #     npm run devStart
