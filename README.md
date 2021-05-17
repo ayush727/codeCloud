@@ -11,3 +11,10 @@
 #     mongorestore 
 # 5. Run the application using the command :
 #     npm run devStart
+# 6. Following are the URLs to run:
+#     i. http://localhost:3000/register 
+#         To register as a user or admin
+#     ii. http://localhost:3000/login
+#         To login as a user
+#     iii. http://localhost:3000/login/admin
+#         To login as an admin
